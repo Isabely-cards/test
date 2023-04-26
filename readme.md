@@ -1,6 +1,9 @@
 # Desafio frontend
 
-## O resultado final desse projeto deve ficar o mais parecido com o link de referência mencionando abaixo.
+## O resultado final desse projeto deve ficar o mais parecido com o link de referência mencionando abaixo, considerando apenas as seguintes sessões:
+- Tela inicial (home)
+- Sobre
+- Contato
 ### Link de referência: [sqad.com.br](https://sqad.com.br)
 ---
 
